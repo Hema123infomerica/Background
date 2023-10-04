@@ -1,0 +1,17 @@
+
+.form-control.small-input {
+    border: 1px solid #131212;
+    height: 40px;
+  }
+  input.form-control::placeholder {
+    color: #222121; 
+    font-size: 18px;
+  }
+  .error-border {
+    border: 1px solid red !important;
+  }
+  .error-message {
+    color: red;
+    font-size: 12px;
+    margin-top: 5px;
+  }
